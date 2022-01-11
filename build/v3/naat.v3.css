@@ -229,10 +229,11 @@
   margin-left: 2px;
 }
 
+/*
 .wrapper-z5ab_q {
   height: 54px;
   width: 54px;
-}
+}/**/
 
 .pill-31IEus {
   left: -2px;
@@ -270,6 +271,7 @@
   }
 }
 
+/*
 .item-2LIpTv {
   animation: var(--unread-server-animation) 3s linear infinite;
   border: 2px solid var(--main-theme-color);
@@ -284,7 +286,7 @@
   width: 48px;
   height: 48px !important;
   transform: none !important;
-}
+}*/
 
 .wrapper-1_HaEi
   .scroller-3X7KbA
@@ -293,10 +295,11 @@
   opacity: 0 !important;
 }
 
+/*
 .item-2LIpTv:not([style*="height: 8px"]) {
   border-color: transparent;
   background-color: initial;
-}
+}*/
 
 .pill-1m5BUr {
   display: none;
